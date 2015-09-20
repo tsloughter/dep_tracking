@@ -1,7 +1,7 @@
 dep_tracking
 =====
 
-An OTP library
+An example lib with a branch `http2` for showing rebar3's dep tracking features.
 
 Build
 -----
