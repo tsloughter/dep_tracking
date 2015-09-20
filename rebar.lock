@@ -1,0 +1,9 @@
+[{<<"cowboy">>,
+  {git,"https://github.com/ninenines/cowboy.git",
+       {ref,"b8e4115eb13488c517d8d8ef33c47d0eaa7838c6"}},
+  0},
+ {<<"cowlib">>,
+  {git,"https://github.com/ninenines/cowlib.git",
+       {ref,"d544a494af4dbc810fc9c15eaf5cc050cced1501"}},
+  1},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.0.0">>},0}].
